@@ -1,0 +1,29 @@
+_repo: Dating-Pilipinas_17787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17787-h/images/cover2_b.jpg
+creator:
+  author:
+    agent_name: Calderón, Sofronio G.
+    aliases:
+    - Calderon, Sofronio G.
+    - Calderón, S. G. (Sofronio G.)
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '6178'
+    url: http://www.gutenberg.org/2009/agents/6178
+description: ''
+gutenberg_issued: '2006-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17787'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History'
+- !lcc 'DS'
+title: Dating Pilipinas
+url: http://www.gutenberg.org/ebooks/17787
